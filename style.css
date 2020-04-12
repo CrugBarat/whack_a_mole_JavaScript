@@ -1,3 +1,8 @@
+body {
+  font-family: Menlo, monospace;
+
+}
+
 .square {
   width: 200px;
   height: 200px;
